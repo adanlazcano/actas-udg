@@ -1,6 +1,7 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+// Config collection used for port & DB config
 export const environment = {
 
     port: process.env.PORT,

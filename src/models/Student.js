@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
 const { Schema, model } = mongoose;
 
+// STUDENT MODEL
 const StudentSchema = new Schema({
 
     code: {
@@ -14,13 +15,10 @@ const StudentSchema = new Schema({
     career: {
         type: String
     },
-
     picture: {
         type: String
     },
-
     actas: [{ type: Schema.Types.ObjectId, ref: 'Acta' }]
-
 }, {
     versionKey: false,
     timestamps: true
