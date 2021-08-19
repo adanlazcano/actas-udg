@@ -1,4 +1,4 @@
-##Generador de Actas para el UNIVERSIDAD DE GUADALAJARA (CUCEA).
+## Generador de Actas para el UNIVERSIDAD DE GUADALAJARA (CUCEA).
 
 Este demo consta de 10 personas simulando pertenecer a la UDG como alumnos, 
 con la finalidad de mostrar la generación de actas (CENEVAL, Informe de servicio social, Informe de prácticas profesionales, Examen Profesional) de cada uno de ellos.
@@ -9,7 +9,7 @@ En términos técnicos este demo se realizo en React.js, Express.js & MongoDB.
 
 
 
-##Certificates Generator created to UNIVERSIDAD DE GUADALAJARA (CUCEA).
+## Certificates Generator created to UNIVERSIDAD DE GUADALAJARA (CUCEA).
 
 This demo consists of 10 people pretending to belong to the UDG as students.
 this demo shows the generation of certificates (CENEVAL, Social Service Report, Professional Practice Report, Professional Exam) of each of them.
