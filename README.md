@@ -7,6 +7,7 @@ En términos técnicos este demo se realizo en React.js, Express.js & MongoDB.
 
 [Visita la página](https://actas-udg.netlify.app)
 
+[Vista el repositorio del lado del cliente](https://github.com/adanlazcano/actas-udg-front-end)
 
 
 ## Certificates Generator created to UNIVERSIDAD DE GUADALAJARA (CUCEA).
@@ -17,3 +18,5 @@ This demo allows you to save the certificates, display the list of generated cer
 In technical terms this demo was made in React.js, Express.js & MongoDB.
 
 [Visit the page](https://actas-udg.netlify.app)
+
+[Visit client side repo](https://github.com/adanlazcano/actas-udg-front-end)
